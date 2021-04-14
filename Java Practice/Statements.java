@@ -11,6 +11,18 @@ public class Statements{
         System.out.println("This is" + 
                 "another" + 
                 "still more.");
+
+
+    // whitespaces
+
+    int var2 =       
+                    20
+            ;
+
+    System.out.println(var2);
+
+
+    var--;System.out.println("whitespaces XD");
         
     }
 }
